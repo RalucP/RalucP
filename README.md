@@ -3,7 +3,7 @@
 
 Welcome to my GitHub profile!
 
-I am originary from 🇷🇴 Romania, but I currently based in 🇸🇪 Malmö, Sweden. I find joy in tackling challenges through programming and shaping creative solutions.
+I am originary from 🇷🇴 Romania, but I am currently based in 🇸🇪 Malmö, Sweden. I find joy in tackling challenges through programming and shaping creative solutions.
 
 ### 🧰 My skillset
 
